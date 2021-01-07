@@ -1,4 +1,2 @@
 # deneme
-/*
-deneme12
-*/
+
